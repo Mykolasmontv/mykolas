@@ -8,23 +8,23 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Gabijus\\.nuget\\packages\\": {},
+    "C:\\Users\\simas\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabijus\\Documents\\mykolas\\sitas\\WinFormsApp3.csproj",
+      "projectUniqueName": "C:\\Users\\simas\\Source\\Repos\\mykolasmotvila3e\\WinFormsApp3.csproj",
       "projectName": "WinFormsApp3",
-      "projectPath": "C:\\Users\\Gabijus\\Documents\\mykolas\\sitas\\WinFormsApp3.csproj",
-      "packagesPath": "C:\\Users\\Gabijus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabijus\\Documents\\mykolas\\sitas\\obj\\",
+      "projectPath": "C:\\Users\\simas\\Source\\Repos\\mykolasmotvila3e\\WinFormsApp3.csproj",
+      "packagesPath": "C:\\Users\\simas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\simas\\Source\\Repos\\mykolasmotvila3e\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Gabijus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\simas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -74,7 +74,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
