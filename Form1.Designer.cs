@@ -30,20 +30,20 @@
         {
             components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            pictureBox1 = new PictureBox();
+            zaidimopaveikslelis = new PictureBox();
             timer1 = new System.Windows.Forms.Timer(components);
             imageList1 = new ImageList(components);
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)zaidimopaveikslelis).BeginInit();
             SuspendLayout();
             // 
-            // pictureBox1
+            // zaidimopaveikslelis
             // 
-            pictureBox1.Location = new Point(12, 12);
-            pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(360, 360);
-            pictureBox1.TabIndex = 2;
-            pictureBox1.TabStop = false;
-            pictureBox1.Click += pictureBox1_Click;
+            zaidimopaveikslelis.Location = new Point(12, 12);
+            zaidimopaveikslelis.Name = "zaidimopaveikslelis";
+            zaidimopaveikslelis.Size = new Size(360, 360);
+            zaidimopaveikslelis.TabIndex = 2;
+            zaidimopaveikslelis.TabStop = false;
+            zaidimopaveikslelis.Click += pictureBox1_Click;
             // 
             // timer1
             // 
@@ -55,25 +55,25 @@
             imageList1.ColorDepth = ColorDepth.Depth32Bit;
             imageList1.ImageStream = (ImageListStreamer)resources.GetObject("imageList1.ImageStream");
             imageList1.TransparentColor = Color.Transparent;
-            imageList1.Images.SetKeyName(0, "apple.jpg");
-            imageList1.Images.SetKeyName(1, "bush.jpg");
-            imageList1.Images.SetKeyName(2, "snake.jpg");
+            imageList1.Images.SetKeyName(0, "images.jpg");
+            imageList1.Images.SetKeyName(1, "snake.jpg");
+            imageList1.Images.SetKeyName(2, "apple.jpg");
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(478, 450);
-            Controls.Add(pictureBox1);
+            ClientSize = new Size(377, 377);
+            Controls.Add(zaidimopaveikslelis);
             Name = "Form1";
             Text = "Form1";
             Load += Form1_Load;
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)zaidimopaveikslelis).EndInit();
             ResumeLayout(false);
         }
 
         #endregion
-        private PictureBox pictureBox1;
+        private PictureBox zaidimopaveikslelis;
         private System.Windows.Forms.Timer timer1;
         private ImageList imageList1;
     }
