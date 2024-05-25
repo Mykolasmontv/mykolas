@@ -49,6 +49,7 @@
             // 
             timer1.Enabled = true;
             timer1.Interval = 250;
+            timer1.Tick += tick;
             // 
             // imageList1
             // 
@@ -68,6 +69,7 @@
             Name = "Form1";
             Text = "Form1";
             Load += Form1_Load;
+            KeyDown += gyvatezem;
             ((System.ComponentModel.ISupportInitialize)zaidimopaveikslelis).EndInit();
             ResumeLayout(false);
         }

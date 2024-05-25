@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gabijus\\Documents\\mykolas\\snake\\zaidimas\\",
+  "WorkspaceRootPath": "C:\\Users\\simas\\source\\repos\\mykolasmotvila3e\\my\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B505C94-3B9E-4DD5-A7ED-B93986AAFA4A}|WinFormsApp3.csproj|c:\\users\\gabijus\\documents\\mykolas\\snake\\zaidimas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B505C94-3B9E-4DD5-A7ED-B93986AAFA4A}|WinFormsApp3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B505C94-3B9E-4DD5-A7ED-B93986AAFA4A}|WinFormsApp3.csproj|c:\\users\\simas\\source\\repos\\mykolasmotvila3e\\my\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B505C94-3B9E-4DD5-A7ED-B93986AAFA4A}|WinFormsApp3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B505C94-3B9E-4DD5-A7ED-B93986AAFA4A}|WinFormsApp3.csproj|c:\\users\\gabijus\\documents\\mykolas\\snake\\zaidimas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8B505C94-3B9E-4DD5-A7ED-B93986AAFA4A}|WinFormsApp3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8B505C94-3B9E-4DD5-A7ED-B93986AAFA4A}|WinFormsApp3.csproj|c:\\users\\simas\\source\\repos\\mykolasmotvila3e\\my\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B505C94-3B9E-4DD5-A7ED-B93986AAFA4A}|WinFormsApp3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,39 +18,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\simas\\source\\repos\\mykolasmotvila3e\\my\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\simas\\source\\repos\\mykolasmotvila3e\\my\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAAAJsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:05:33.417Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Gabijus\\Documents\\mykolas\\snake\\zaidimas\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Gabijus\\Documents\\mykolas\\snake\\zaidimas\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAmwE8AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T08:05:33.417Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Gabijus\\Documents\\mykolas\\snake\\zaidimas\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\simas\\source\\repos\\mykolasmotvila3e\\my\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Gabijus\\Documents\\mykolas\\snake\\zaidimas\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\simas\\source\\repos\\mykolasmotvila3e\\my\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T08:03:59.468Z",
+              "WhenOpened": "2024-05-25T18:09:02.722Z",
               "EditorCaption": " [Design]"
             }
           ]
