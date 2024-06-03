@@ -138,10 +138,10 @@ namespace WinFormsApp3
                     gyvatexy[0].y = gyvatexy[0].y + 1;
                     break;
                 case kryptys.kair:
-                    gyvatexy[0].y = gyvatexy[0].x - 1;
+                    gyvatexy[0].x = gyvatexy[0].x - 1;
                     break;
                 case kryptys.des:
-                    gyvatexy[0].y = gyvatexy[0].x + 1;
+                    gyvatexy[0].x = gyvatexy[0].x + 1;
                     break;
             }
 
@@ -166,9 +166,14 @@ namespace WinFormsApp3
                 if (gyvatesilgis < 96)
                     obuol();
                 this.Text = "gyvate - taskai: " + gyvatesilgis;
-                
-                
+
+
+
             }
+            g.DrawImage(imageList1.Images[1], gyvatexy[0].x * 30, gyvatexy[0].y * 30);
+            zaidimolangelis[gyvatexy[0].x, gyvatexy[0].y] = zaidimolangeliai.gyvate;
+            zaidimopaveikslelis.Refresh();
+
         }
     }
 }
